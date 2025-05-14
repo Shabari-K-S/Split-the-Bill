@@ -2,7 +2,7 @@
 
 A modern, user-friendly mobile application built with Python and Flet framework that helps users split bills and calculate tips easily.
 
-![Split the Bill App](https://raw.githubusercontent.com/Shabari-K-S/Split-the-Bill/preview.png)
+![Split the Bill App](https://raw.githubusercontent.com/Shabari-K-S/Split-the-Bill/refs/heads/main/preview.png)
 
 ## Features
 
